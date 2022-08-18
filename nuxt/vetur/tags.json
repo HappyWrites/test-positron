@@ -1,0 +1,32 @@
+{
+  "Basket": {
+    "description": "Auto imported from components/Basket.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Mounting": {
+    "description": "Auto imported from components/Mounting.vue"
+  },
+  "Navigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "Panel": {
+    "description": "Auto imported from components/Panel.vue"
+  },
+  "Product": {
+    "description": "Auto imported from components/Product.vue"
+  },
+  "Products": {
+    "description": "Auto imported from components/Products.vue"
+  },
+  "Total": {
+    "description": "Auto imported from components/Total.vue"
+  },
+  "Viewed": {
+    "description": "Auto imported from components/Viewed.vue"
+  },
+  "Vieweds": {
+    "description": "Auto imported from components/Vieweds.vue"
+  }
+}
